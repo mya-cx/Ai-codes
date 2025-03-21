@@ -1,3 +1,4 @@
-# zcodee
+# zzz
 Ai Stuff.
-aicb.py is AI chat bot using Python.
+...nothing right now..
+it's under development.
